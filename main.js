@@ -1,6 +1,7 @@
 rightWristX = "";
 rightWristY = "";
 scoreRightWrist = "";
+game_status = "";
 
 var paddle2 =10,paddle1=10;
 
