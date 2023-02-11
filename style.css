@@ -15,3 +15,8 @@ body
     font-family:'Times New Roman', Times, serif;
     bottom:0px;
 }
+
+#myModal {
+    color: black;
+    text-decoration-color: black;
+}
