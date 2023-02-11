@@ -1,0 +1,17 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.button {
+    color:black;
+}
+
+.footer {
+    position:sticky;
+    color:crimson;
+    font-size:larger;
+    font-family:'Times New Roman', Times, serif;
+    bottom:0px;
+}
